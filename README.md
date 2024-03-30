@@ -1,1 +1,1 @@
-Leetcode 75 solutions
+LC 75 solutions
