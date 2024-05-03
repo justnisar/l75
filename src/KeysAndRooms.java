@@ -3,7 +3,7 @@ import java.util.List;
 public class KeysAndRooms {
 
     private boolean canVisitAll(boolean[] visited){
-
+        return false;
     }
 
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {

@@ -1,10 +1,4 @@
-class Value{
-    public int value;
 
-    public Value(int value) {
-        this.value = value;
-    }
-}
 
 public class CountGoodNodesInBinaryTree {
 
