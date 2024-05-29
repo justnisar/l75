@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PathSum3 {
-
+/*
     private int pathCount = 0;
     private List<Integer> getPaths(TreeNode root, int targetSum){
 
@@ -41,7 +41,7 @@ public class PathSum3 {
         if(root.val == targetSum){
             pathCount++;
         }
-        result.add(root.val);
+        result.add();
 
         return result;
     }
@@ -51,5 +51,5 @@ public class PathSum3 {
         getPaths(root, targetSum);
         return pathCount;
     }
-
+*/
 }
